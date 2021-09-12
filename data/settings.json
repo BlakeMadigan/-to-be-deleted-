@@ -1,0 +1,22 @@
+{
+  "logo": "insert SVG here",
+  "app": {
+    "title": {
+      "/": "",
+      "/blog": "Blog | ",
+      "/projects": "Projects | ",
+      "/about": "About Me | "
+    }
+  },
+  "sidebar": {
+    "pages": [
+      { "text": "Home", "url": "/" },
+      { "text": "Blog", "url": "/blog" },
+      { "text": "Projects", "url": "/projects" },
+      { "text": "About", "url": "/about" }
+    ]
+  },
+  "homepage": {},
+  "blog": {},
+  "portfolio": {}
+}
