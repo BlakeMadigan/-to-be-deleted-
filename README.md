@@ -2,5 +2,7 @@
 
 ## Plans -
 
+- Home
 - Blog
 - Portfolio
+- About
