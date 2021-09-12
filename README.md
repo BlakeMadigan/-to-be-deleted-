@@ -1,4 +1,4 @@
-# My Web Page
+# blakemadigan.com
 
 ## Plans -
 
