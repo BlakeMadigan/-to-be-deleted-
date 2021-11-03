@@ -6,3 +6,7 @@
 - Blog
 - Portfolio
 - About
+
+
+
+This is going to be redone
